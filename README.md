@@ -55,3 +55,5 @@
 <a href="https://github.com/olawale0254/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawale0254" />
 </a>
+
+<div> <img src="https://github.com/olawale0254/olawale0254/blob/output/github-contribution-grid-snake.svg" /></div>
