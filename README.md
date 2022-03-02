@@ -52,8 +52,9 @@
 <a href="https://github.com/olawale0254/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=olawale0254&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/olawale0254/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawale0254" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olawale0254&layout=compact&theme=gotham&hide=html&langs_count=12)](https://github.com/olawale0254/github-readme-stats)
 
 <div> <img src="https://github.com/olawale0254/olawale0254/blob/output/github-contribution-grid-snake.svg" /></div>
+
+<br/> 
