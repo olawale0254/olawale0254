@@ -13,17 +13,19 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on the application of Computer Vision for Retail Audit in open market and stores.
+- 🔭 I’m currently working on the application of Computer Vision application to e-commerce systems.
 
-- 🔭 I am also applying Computer Vision in Sport Analytics
+- 🔭 I am also applying Computer Vision in GIS.
 
-- 🌱 I currently working as an AI Enginner and Resercher at Data Scientists Network (Data Science Nigeria)
+- 🌱 I formally working as an AI Enginner and Resercher at Data Scientists Network (Data Science Nigeria).
+
+- 🌱 I am currently working as a Data Scientists at Creative Advanced Technologies 
 
 - 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
 
-- 💬 Talk to me about Computer Vision, Geospatial Analytics, Data Science, Robotics Process Automation, Data Engineering, Open Source.
+- 💬 Talk to me about Computer Vision, Recommender Systems, Geospatial Analytics, Data Science, Robotics Process Automation, Data Engineering, Open Source.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> </h2>
 <a href= https://github.com/olawale0254?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/olawale0254?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/olawale0254?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
@@ -42,7 +44,7 @@
 <a href = 'https://www.linkedin.com/in/bimbolawale/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/bimbolawale'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@abimbolaolawalevictor'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/olawale0254'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/olawale0254'> <img width = '32px' align= 'center'
 
 
 
