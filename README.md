@@ -12,18 +12,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🔭 I have over 4 years experience in the feild of Data.
 
-- 🔭 I’m currently working on the application of Computer Vision application to e-commerce systems.
+- 🌱 I formally worked as a AI Enginner and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
 
-- 🔭 I am also applying Computer Vision in GIS.
+- 🌱 I am currently working as a AI Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
 
-- 🌱 I formally working as an AI Enginner and Resercher at Data Scientists Network (Data Science Nigeria).
+- 👯 I’m open to collaborating on Projects and StartUps for business and Social Goods.  
 
-- 🌱 I am currently working as a Data Scientists at Creative Advanced Technologies 
-
-- 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
-
-- 💬 Talk to me about Computer Vision, Recommender Systems, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
+- 💬 Talk to me about Computer Vision, Recommender Systems and Information Retrival, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> </h2>
 <a href= https://github.com/olawale0254?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
