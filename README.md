@@ -18,7 +18,7 @@
 
 - 🌱 I am currently working as a AI Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
 
-- 👯 I’m open to collaborating on Projects and StartUps for business and Social Goods.  
+- 👯 I’m open to collaborating on Projects and StartUps for Business and Social Goods.  
 
 - 💬 Talk to me about Computer Vision, Recommender Systems and Information Retrival, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
 
