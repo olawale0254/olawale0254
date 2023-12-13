@@ -14,13 +14,13 @@
 
 - 🔭 I have over 4 years experience in the field of Data.
 
-- 🌱 I formally worked as a AI Engineer and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
+- 🌱 I formally worked as a ML Engineer and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
 
-- 🌱 I am currently working as a AI Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
+- 🌱 I am currently working as a ML Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
 
 - 👯 I’m open to collaborating on Projects and StartUps for Business and Social Goods.  
 
-- 💬 Talk to me about Computer Vision, Recommender Systems and Information Retrival, Geospatial Analytics, Data Science, Machine Learning, Data Engineering, Deep Learning.
+- 💬 Talk to me about  Recommender Systems and Information Retrival, Data Science, Machine Learning, Data Engineering, Deep Learning.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> </h2>
 <a href= https://github.com/olawale0254?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
