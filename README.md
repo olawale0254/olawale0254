@@ -12,11 +12,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I have over 4 years experience in the field of Data.
-
-- 🌱 I formally worked as a ML Engineer and Researcher at Data Scientists Network (Data Science Nigeria) Lagos Nigeria.
-
-- 🌱 I am currently working as a ML Engineer/Data Scientist at Creative Advanced Technologies Dubai UAE.
+- 🔭 I have over 4 years experience in the field of Data
 
 - 👯 I’m open to collaborating on Projects and StartUps for Business and Social Goods.  
 
